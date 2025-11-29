@@ -1,0 +1,12 @@
+# Ignore all node_modules folders (in root, backend, and frontend)
+node_modules/
+
+# Ignore environment variables (contains your secrets)
+.env
+
+# Ignore build output folders (if you build frontend)
+dist/
+build/
+
+# Ignore system files
+.DS_Store
